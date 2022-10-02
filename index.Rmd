@@ -8,10 +8,10 @@ output:
     toc: true
     toc_depth: 3  
 author:
-  - name: 유충현 
-    url: https://choonghyunryu.github.io/
-    affiliation: 한국 R 사용자회
-    affiliation_url: https://r2bit.com/   
+  - name: 정호빈 
+    url: https://trotsky4994.github.io/
+    affiliation: 정호빈
+    affiliation_url: https://www.mju.ac.kr/record/7220/subview.do
 date: "`r Sys.Date()`" 
 ---
 
