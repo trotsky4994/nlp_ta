@@ -9,7 +9,7 @@ output:
     toc_depth: 3  
 author:
   - name: 정호빈 
-    url: https://trotsky4994.github.io/
+    url: https://trotsky4994.github.io/nlp_ta/
     affiliation: 명지대학교 기록정보과학전문대학원 데이터기록전공
     affiliation_url: https://www.mju.ac.kr/record/7220/subview.do
 date: "`r Sys.Date()`" 
