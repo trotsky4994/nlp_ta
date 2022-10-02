@@ -7,9 +7,6 @@ author:
     url: https://trotsky4994.github.io/
     affiliation: 한국 R 사용자회
     affiliation_url: https://r2bit.com/
-  - name: 홍길동 
-    affiliation: 한국 R 사용자회
-    affiliation_url: https://r2bit.com/
 date: "`r Sys.Date()`"
 output: 
   distill::distill_article:
