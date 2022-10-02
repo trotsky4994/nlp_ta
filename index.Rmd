@@ -10,7 +10,7 @@ output:
 author:
   - name: 정호빈 
     url: https://trotsky4994.github.io/
-    affiliation: 정호빈
+    affiliation: 명지대학교 기록정보과학전문대학원 데이터기록전공
     affiliation_url: https://www.mju.ac.kr/record/7220/subview.do
 date: "`r Sys.Date()`" 
 ---
