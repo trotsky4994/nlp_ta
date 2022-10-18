@@ -20,26 +20,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-# STT 텍스트 분석
+# 내가 기대하는 텍스트 분석
 
-음성 인식(Speech Recognition)이란 사람이 말하는 음성 언어를 컴퓨터가 해석해 그 내용을 문자 데이터로 전환하는 처리를 말합니다. **STT(Speech-to-Text)**라고도 합니다. 
-
-상담센터의 상담 내용을 텍스트화한 STT 데이터를 **자연어 처리(NLP, Natural Language Processing)하여 함축되어 있는 고객의 의도를 이해**합니다.
+공공기록물의 평가에서 가장 핵심이 되는 것은 특정 업무에서 생산되는 기록물의 **보존가치**를 평가하는 것이다. 업무의 최하위 단계인 **단위과제**에 기록물의 업무 성격에 따라 분류하여 보존기간을 책정하는 것이다. 텍스트 마이닝을 통해 기록물의 핵심 키워드를 도출하고, 이를 단위과제에 분류할 수 있다면 기록물 평가에 텍스트 분석이 상당한 기여를 할 수 있을 것으로 보인다. 따라서 이번 수업을 통해 공공기록물에 대한 평가 영역에서의 분석 방법을 알아간다면 유의미한 시간이 될 것으로 보인다.
 
 <br>
 
 ```{r network, echo=FALSE, out.width = "55%", fig.align='center'}
 knitr::include_graphics("img/what-is-text-analysis.png")
-```
-
-
-# 민원 상담콜 분석
-
-상담콜 중에서 민원으로 전이되는 사례가 있습니다. 이 건들의 텍스트 데이터를 이해하고 **민원을 예측하는 이진분류 모형**을 만들어봅니다.
-
-<br>
-
-```{r gis, echo=FALSE, out.width = "70%", fig.align='center'}
-knitr::include_graphics("img/complaint.png")
 ```
 
