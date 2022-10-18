@@ -1,5 +1,5 @@
 ---
-title: "LASSO 모형기반 민원 예측"
+title: "대통령 연설문 예측"
 description: |
   TBD
 author:

@@ -1,5 +1,5 @@
 ---
-title: "대통령 연설문 예측"
+title: "캡스톤 프로젝트"
 description: |
   TBD
 author:
