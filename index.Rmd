@@ -1,7 +1,7 @@
 ---
 title: "텍스트 데이터 분석"
 description: |
-  상담의 통화 텍스트로 상담 콜을 이해하고, 민원을 유발하는 통화를 예측해 봅니다.
+  내가 생각하는 텍스트 분석과 기대하는 텍스트 분석을 정리해 봅니다.
 site: distill::distill_website
 output:
   distill::distill_article:
